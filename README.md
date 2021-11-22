@@ -3,8 +3,8 @@
 ## Base setup
 
 - [X] React
-- [ ] Typescript
-- [ ] Redux
+- [X] Typescript
+- [X] Redux
 - [ ] CalendarJS
 
 # Getting Started with Create React App
