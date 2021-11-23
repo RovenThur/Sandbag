@@ -1,9 +1,11 @@
 import { configureStore, ThunkAction, Action } from '@reduxjs/toolkit';
 import counterReducer from '../features/counter/counterSlice';
+import calendarReducer from '../features/calendar/CalendarSlice';
 
 export const store = configureStore({
   reducer: {
     counter: counterReducer,
+    calendar: calendarReducer
   },
 });
 
