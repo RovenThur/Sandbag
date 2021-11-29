@@ -5,7 +5,9 @@
 - [X] React
 - [X] Typescript
 - [X] Redux
-- [ ] CalendarJS
+- [X] CalendarJS
+- [X] React Router 6
+- [ ] Bootstrap
 
 # Getting Started with Create React App
 
