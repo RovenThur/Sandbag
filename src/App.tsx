@@ -4,6 +4,7 @@ import './App.css';
 import LogoContainer from './pages/logo';
 import Calendar from './pages/calendar';
 import LogoTips from './pages/logoTips';
+import logo from './logo.svg';
 
 const routeObject: RouteObject[] = [{
   index: true,
